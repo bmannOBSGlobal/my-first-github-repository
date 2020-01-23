@@ -4,3 +4,5 @@ Here is my first GitHub repository
 This line was modified during conflict resolution
 
 New line was added locally
+
+Edit in ithe feature-2 branch
